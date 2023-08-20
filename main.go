@@ -23,7 +23,7 @@ type receipt struct {
 }
 
 type pointsResp struct {
-	Points int `json:"points`
+	Points int `json:"points"`
 }
 
 type idResp struct {
